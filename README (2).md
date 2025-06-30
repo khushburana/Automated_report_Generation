@@ -1,3 +1,19 @@
+# AUTOMATED_REPORT_GENERATION
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : KHUSHBU KUMARI
+
+INTERN ID : CT04DF2535
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : FOUR WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
+---
+
 # 📊 Automated Student Report Generator
 
 This Python script reads student names and scores from a CSV file and generates a PDF report with summarized statistics and detailed individual scores.
