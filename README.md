@@ -70,6 +70,3 @@ python 0dfa57c7-42b2-4bf1-8690-95eeb8cdef67.py
 - `reportlab`
 - `csv` and `statistics` (built-in)
 
-## ✍️ Author
-
-Generated using Python and ReportLab.
